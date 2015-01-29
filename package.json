@@ -1,0 +1,29 @@
+{
+  "name": "mongoostory",
+  "version": "0.1.0",
+  "description": "mongoose history",
+  "main": "./lib/history.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/KhromovE/mongoostory"
+  },
+  "author": "Khromov Egor <KhromovE@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "3.8.x",
+    "debug": "^2.1.0"
+  },
+  "keywords": [
+    "mongoose",
+    "history",
+    "backup",
+    "models"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
