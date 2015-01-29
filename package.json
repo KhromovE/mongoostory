@@ -1,6 +1,6 @@
 {
   "name": "mongoostory",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "mongoose history",
   "main": "./lib/history.js",
   "scripts": {
@@ -13,10 +13,10 @@
   "author": "Khromov Egor <KhromovE@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "debug": "~2.1.0",
-    "mongoose": "~3.8.0"
+    "debug": "~2.1.0"
   },
   "devDependencies": {
+    "mongoose": "~3.8.0",
     "mocha": "*",
     "should": "*"
   },
