@@ -13,17 +13,17 @@
   "author": "Khromov Egor <KhromovE@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "3.8.x",
-    "debug": "^2.1.0"
+    "debug": "~2.1.0",
+    "mongoose": "~3.8.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
   },
   "keywords": [
     "mongoose",
     "history",
     "backup",
     "models"
-  ],
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  }
+  ]
 }
