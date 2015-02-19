@@ -1,6 +1,6 @@
 {
   "name": "mongoostory",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "mongoose history",
   "main": "./lib/history.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "url": "github.com/KhromovE/mongoostory"
   },
   "author": "Khromov Egor <KhromovE@gmail.com>",
+  "contributors": [{
+    "name": "Maksim Chetverikov",
+    "email": "ma.chetverikov@gmail.com"
+  }],
   "license": "MIT",
   "dependencies": {
     "debug": "~2.1.0"
