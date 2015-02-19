@@ -1,6 +1,6 @@
 {
   "name": "mongoostory",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "mongoose history",
   "main": "./lib/history.js",
   "scripts": {
